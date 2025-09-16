@@ -1,4 +1,4 @@
-# fifa23-data-analysis-
+# fifa23-data-analysis
 A data analysis project using FIFA 23 dataset with pandas and visualization toolsFIFA 23 Data Analysis 🏆⚽
 
 This project analyzes the FIFA 23 dataset using pandas and visualizes patterns with seaborn and matplotlib.
